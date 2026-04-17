@@ -1,3 +1,47 @@
+# Living Intelligence
+
+> **Layer:** Foundation  
+> **Status:** Foundational Canon  
+> **Audience:** Newcomers, philosophers, researchers, consciousness-oriented builders  
+> **Related:** `technomysticism`, `philosophy-of-the-all`, `sacred-technology-renaissance`, `truthmirror`
+
+## What this repo is
+Living Intelligence is a foundational repo for understanding intelligence as a living, relational, and participatory phenomenon rather than a purely computational one. It explores aliveness, consciousness, emergence, embodiment, and the deeper conditions under which intelligence grows in healthy systems.
+
+This repo helps frame the ecosystem around life-serving intelligence rather than machine abstraction alone.
+
+## Why it exists
+Most contemporary conversations about intelligence reduce it to optimization, prediction, and control. Living Intelligence exists to propose a broader model, one in which intelligence is inseparable from relationship, presence, context, and the vitality of living systems.
+
+It helps anchor HopefulVision in a more human, ecological, and consciousness-aware understanding of mind.
+
+## What Living Intelligence is not
+Living Intelligence is **not**:
+- the primary systems architecture repo, which belongs to `nousos`
+- simply a duplicate of `technomysticism`
+- a narrow scientific or technical definition of intelligence
+
+Living Intelligence is the **life-centered philosophical foundation for how intelligence is understood across the ecosystem**.
+
+## How it fits the ecosystem
+This repo connects most directly to:
+- `technomysticism`, which bridges mystical and technical language
+- `philosophy-of-the-all`, which offers deeper metaphysical grounding
+- `sacred-technology-renaissance`, which holds the broader cultural frame
+- `truthmirror`, which depends on living feedback and relational coherence
+
+## Start here
+- `README.md`
+- `Living-Intelligence_Master_Index.md`
+- `Living_Intelligence_Practice_Guide.md`
+- `Resonance_Manifestation_Law.md`
+
+## Current maturity
+- foundational canon
+- philosophical development
+- practical worldview articulation
+
+
 # Living Intelligence Theory: Core Framework
 ## The Philosophical Foundation of Consciousness-First Technology
 
